@@ -211,10 +211,10 @@ if ('scrollRestoration' in history) {
 }
 
 const images = [
-  'images/pexels-shtefutsa-17568713.jpg',
-  'images/pexels-_littlemoon_-29725600-6902201.jpg',
-  'images/pexels-wolfram-k-226511-745243.jpg',
-  'images/pexels-sriharsha-chekuri-249318-755405.jpg',
+  'images/pexels-shtefutsa-17568713.webp',
+  'images/pexels-_littlemoon_-29725600-6902201.webp',
+  'images/pexels-wolfram-k-226511-745243.webp',
+  'images/pexels-sriharsha-chekuri-249318-755405.webp',
 ];
 
 let heroSection = document.querySelector('.heroSection').style;
@@ -291,20 +291,20 @@ images.forEach((imageUrl) => {
 });
 
 let images2 = [
-  'pexels-divinetechygirl-1181304.jpg',
-  'pexels-olly-927022.jpg',
-  'pexels-djordje-petrovic-590080-2102416.jpg',
-  'pexels-energepic-com-27411-313691.jpg',
-  'pexels-fauxels-3184291.jpg',
-  'v.jpg',
-  'pexels-jame_9bkk-128711811-13919146.jpg',
-  'pexels-binyaminmellish-106399.jpg',
-  'pexels-kateryna-babaieva-1423213-2760241.jpg',
-  'pexels-vivek-tedla-2076460171-29276458.jpg',
-  'pexels-dropshado-2251247.jpg',
-  'pexels-tara-winstead-8386363.jpg',
-  'pexels-i-rem-dinc-2148069427-30475979.jpg',
-  'pexels-pixabay-417273.jpg',
+  'pexels-divinetechygirl-1181304.webp',
+  'pexels-olly-927022.webp',
+  'pexels-djordje-petrovic-590080-2102416.webp',
+  'pexels-energepic-com-27411-313691.webp',
+  'pexels-fauxels-3184291.webp',
+  'v.webp',
+  'pexels-jame_9bkk-128711811-13919146.webp',
+  'pexels-binyaminmellish-106399.webp',
+  'pexels-kateryna-babaieva-1423213-2760241.webp',
+  'pexels-vivek-tedla-2076460171-29276458.webp',
+  'pexels-dropshado-2251247.webp',
+  'pexels-tara-winstead-8386363.webp',
+  'pexels-i-rem-dinc-2148069427-30475979.webp',
+  'pexels-pixabay-417273.webp',
 ];
 
 images2.forEach((src) => {

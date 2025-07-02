@@ -26,7 +26,7 @@
     --inputColor: #515151;
     --submitColor: #3d3d3d;
     --imojyColor: #333333;
-    --hero-bg: url("images/pexels-shtefutsa-17568713.jpg")
+    --hero-bg: url("images/pexels-shtefutsa-17568713.webp")
   }
 
 
@@ -397,7 +397,7 @@ main{
   grid-area: o1;
 }
 .o1::before{
-  background-image: url(images/pexels-divinetechygirl-1181304.jpg);
+  background-image: url(images/pexels-divinetechygirl-1181304.webp);
 }
 
 
@@ -428,31 +428,31 @@ transition: transform 0.5s ease;
   grid-area: o3;
 }
 .o3::before{
-  background-image: url(images/pexels-olly-927022.jpg);
+  background-image: url(images/pexels-olly-927022.webp);
 }
 .o4{
   grid-area: o4;
 }
 .o4::before{
-  background-image: url(images/v.jpg);
+  background-image: url(images/v.webp);
 }
 .o5{
   grid-area: o5;
 }
 .o5::before{
-  background-image: url(images/pexels-djordje-petrovic-590080-2102416.jpg);
+  background-image: url(images/pexels-djordje-petrovic-590080-2102416.webp);
 }
 .o6{
   grid-area: o6;
 }
 .o6::before{
-  background-image: url(images/pexels-energepic-com-27411-313691.jpg);
+  background-image: url(images/pexels-energepic-com-27411-313691.webp);
 }
 .o7{
   grid-area: o7;
 }
 .o7::before{
-  background-image: url(images/pexels-fauxels-3184291.jpg);
+  background-image: url(images/pexels-fauxels-3184291.webp);
 }
 
 
@@ -521,7 +521,7 @@ p span, .input span{
   }
   
   .b1::before{
-    background-image: url(images/pexels-jame_9bkk-128711811-13919146.jpg);
+    background-image: url(images/pexels-jame_9bkk-128711811-13919146.webp);
   }
   
   .b2{
@@ -540,7 +540,7 @@ p span, .input span{
   
   
   .d1::before{
-    background-image: url(images/pexels-binyaminmellish-106399.jpg);
+    background-image: url(images/pexels-binyaminmellish-106399.webp);
     background-position: 0 -180px;
   }
 
@@ -558,7 +558,7 @@ p span, .input span{
   }
     
   .a1::before{
-    background-image: url(images/pexels-pixabay-256150.jpg);
+    background-image: url(images/pexels-pixabay-256150.webp);
   }
   
   .a2{
@@ -592,39 +592,39 @@ a{
   grid-area: c1;
 }
 .c1::before{
-  background-image: url(images/pexels-kateryna-babaieva-1423213-2760241.jpg);
+  background-image: url(images/pexels-kateryna-babaieva-1423213-2760241.webp);
 }
 .c2{
   grid-area: c2;
 }
 .c2::before{
-  background-image: url(images/pexels-vivek-tedla-2076460171-29276458.jpg);
+  background-image: url(images/pexels-vivek-tedla-2076460171-29276458.webp);
 }
 .c3{
   grid-area: c3;
 }
 .c3::before{
-  background-image: url(images/pexels-dropshado-2251247.jpg);
+  background-image: url(images/pexels-dropshado-2251247.webp);
 }
 .c4{
   grid-area: c4;
 }
 .c4::before{
-  background-image: url(images/pexels-tara-winstead-8386363.jpg);
+  background-image: url(images/pexels-tara-winstead-8386363.webp);
   background-position: 0 75%;
 }
 .c5{
   grid-area: c5;
 }
 .c5::before{
-  background-image: url(images/pexels-i-rem-dinc-2148069427-30475979.jpg);
+  background-image: url(images/pexels-i-rem-dinc-2148069427-30475979.webp);
   background-position: -45px;
 }
 .c6{
   grid-area: c6;
 }
 .c6::before{
-  background-image: url(images/pexels-pixabay-417273.jpg);
+  background-image: url(images/pexels-pixabay-417273.webp);
 }
 
 .text, .submit{
@@ -1028,7 +1028,7 @@ header .btn{
   margin-left: -45px !important;
 }
 .d1::before {
-  background-image: url(images/pexels-binyaminmellish-106399.jpg);
+  background-image: url(images/pexels-binyaminmellish-106399.webp);
   background-position: -77px 0;
 }
 .aWord{

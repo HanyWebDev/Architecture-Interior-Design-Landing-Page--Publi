@@ -314,10 +314,12 @@ main{
 }
 
 .studioo{
-  margin-top: 300px !important;
+  margin-top: 200px !important;
 }
-
-
+.titleContent{
+  margin-left: 20px !important;
+}
+  
 /* Extra small (أقل من 576px) – default بدون ميديا كويري */
 
 /* Small devices (≥576px) */
@@ -359,7 +361,7 @@ main{
 
 @media (min-width: 1500px) {
   .container {
-    max-width: 1580px !important;
+    max-width: 1780px !important;
   }
 }
 
@@ -1032,7 +1034,7 @@ header .btn{
 .aWord{
   font-size: 35px !important;
   font-family: 'Open Sans', sans-serif;
-  }
+}
   .logo{
     font-size: 20px;
   }
@@ -1040,3 +1042,13 @@ header .btn{
 /* 
 
 */
+@media (min-width: 360.98px) {
+  .bla{
+    margin-top: 200px;
+  }
+}
+@media (max-width: 360.98px) {
+  .bla{
+    margin-top: 200px;
+  }
+}

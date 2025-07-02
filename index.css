@@ -381,7 +381,7 @@ main{
   background-position: center;
   position: relative;
   /* transform: translate(0%, 3%); 35%  */
-  opacity: 0;
+  opacity: 1;
   transition: 1s ease;
   will-change: transform, opacity;
   overflow: hidden; 

@@ -212,9 +212,9 @@ if ('scrollRestoration' in history) {
 
 const images = [
   'images/pexels-shtefutsa-17568713.webp',
-  'images/pexels-_littlemoon_-29725600-6902201.webp',
   'images/pexels-wolfram-k-226511-745243.webp',
   'images/pexels-sriharsha-chekuri-249318-755405.webp',
+  'images/pexels-_littlemoon_-29725600-6902201.webp',
 ];
 
 let heroSection = document.querySelector('.heroSection').style;
